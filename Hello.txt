@@ -1,3 +1,4 @@
 Hello, Github!
 Welcome to Github!
-this is a new conflict line in main branch
+this is a new resolved line in main branch
+this is a resolved line in feature branch
